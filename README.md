@@ -1,11 +1,9 @@
-#LIVE URL
+# LIVE URL
 https://task-flow-8fj4.vercel.app/
 
 
 # TaskFlow - Smart Student Task Scheduler & Academic Management System
-> Production-grade, full-stack Academic Productivity & Student Management Platform powered by Python Flask, SQLite, custom Min-Heap Priority Queue DSA (`heapq`), and modern SaaS React UI with Recharts.
-#LIVE URL
-https://task-flow-8fj4.vercel.app/
+> Production-grade, full-stack Academic Productivity & Student Management Platform powered by Python Flask, SQLite, custom Min-Heap Priority Queue DSA (`heapq`), and modern SaaS React UI with Recharts
 ---
 
 ## 1. Project Overview
